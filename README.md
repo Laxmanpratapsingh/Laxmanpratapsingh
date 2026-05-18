@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laxmanpratapsing
+- 👋 Hi, I’m @Laxmanpratapsingh
 - 👀 I’m interested in Gen AI. 
 - 🌱 I’m currently learning Deep learning and NLP.
 - 💞️ I’m looking to collaborate on ML Projects.
